@@ -1,0 +1,122 @@
+CACHE MANIFEST
+# rev 0
+
+NETWORK:
+# resources you never want cached go here
+
+CACHE:
+# images
+images/mrm.png
+images/promoseven360.png
+images/mccann.png
+images/text1.png
+images/01-family.png
+images/04-snooze.png
+images/06-shop.png
+images/02-friends.png
+images/03-junkfood.png
+images/05-move.png
+images/jug/animation0001.png
+images/jug/animation0002.png
+images/jug/animation0003.png
+images/jug/animation0004.png
+images/jug/animation0005.png
+images/jug/animation0006.png
+ images/jug/animation0001.png
+          images/jug/animation0002.png
+          images/jug/animation0003.png
+          images/jug/animation0004.png
+          images/jug/animation0005.png
+          images/jug/animation0006.png
+          images/jug/animation0007.png
+          images/jug/animation0008.png
+          images/jug/animation0009.png
+          images/jug/animation0010.png
+          images/jug/animation0011.png
+          images/jug/animation0012.png
+          images/jug/animation0013.png
+          images/jug/animation0014.png
+          images/jug/animation0015.png
+          images/jug/animation0016.png
+          images/jug/animation0017.png
+          images/jug/animation0018.png
+          images/jug/animation0019.png
+          images/jug/animation0020.png
+          images/jug/animation0021.png
+          images/jug/animation0022.png
+          images/jug/animation0023.png
+          images/jug/animation0024.png
+          images/jug/animation0025.png
+          images/jug/animation0026.png
+          images/jug/animation0027.png
+          images/jug/animation0028.png
+          images/jug/animation0029.png
+          images/jug/animation0030.png
+          images/jug/animation0031.png
+          images/jug/animation0032.png
+          images/jug/animation0033.png
+          images/jug/animation0034.png
+          images/jug/animation0035.png
+          images/jug/animation0036.png
+          images/jug/animation0037.png
+          images/jug/animation0038.png
+          images/jug/animation0039.png
+          images/jug/animation0040.png
+          images/jug/animation0041.png
+          images/jug/animation0042.png
+          images/jug/animation0043.png
+          images/jug/animation0044.png
+          images/jug/animation0045.png
+          images/jug/animation0046.png
+          images/jug/animation0047.png
+          images/jug/animation0048.png
+          images/jug/animation0049.png
+          images/jug/animation0050.png
+		  images/jug/animation0051.png
+          images/jug/animation0052.png
+          images/jug/animation0053.png
+          images/jug/animation0054.png
+          images/jug/animation0055.png
+          images/jug/animation0056.png
+          images/jug/animation0057.png
+          images/jug/animation0058.png
+          images/jug/animation0059.png
+          images/jug/animation0060.png
+          images/jug/animation0061.png
+          images/jug/animation0062.png
+          images/jug/animation0063.png
+          images/jug/animation0064.png
+          images/jug/animation0065.png
+          images/jug/animation0066.png
+          images/jug/animation0067.png
+          images/jug/animation0068.png
+          images/jug/animation0069.png
+		  images/jug/animation0070.png
+		  images/jug/animation0071.png
+          images/jug/animation0072.png
+          images/jug/animation0073.png
+          images/jug/animation0074.png
+          images/jug/animation0075.png
+          images/jug/animation0076.png
+          images/jug/animation0077.png
+          images/jug/animation0078.png
+          images/jug/animation0079.png
+          images/jug/animation0080.png
+		  images/jug/animation0081.png
+          images/jug/animation0082.png
+          images/jug/animation0083.png
+          images/jug/animation0084.png
+          images/jug/animation0085.png
+          images/jug/animation0086.png
+          images/jug/animation0087.png
+
+
+# JavaScripts
+js/eid.js
+js/jquery.ui.touch-punch.min.js
+js/spritespin.js
+js/jquery-1.7.2.min.js
+js/jquery-ui.min.js
+
+# stylesheets
+css/eid.css
